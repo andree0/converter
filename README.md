@@ -14,3 +14,7 @@ Konwerter plików .csv do .xlsx
    
 5. Jeśli wszystko było prawidłowo wykonane, przekonwertowane pliki \
    powinny znajdować się w katalogu `converted_files`.
+   
+6. Przykładowy plik `przykładowy_plik.csv` do konwersji znajduję się w katalogu \
+   `files_to_convert`, a plik `przykładowy_plik.xlsx` po konwersji znajduję się \
+   w katalogu `converted_files`.
