@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/files_to_convert/
+/.~lock.dane_csv.xlsx#
+/converted_files/
