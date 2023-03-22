@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /.~lock.dane_csv.xlsx#
+
+#editors
+.vscode
+.idea
